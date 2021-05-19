@@ -1,0 +1,10 @@
+tqdm
+lmfit
+sklearn
+mlxtend
+scikit-posthocs
+matplotlib
+scikit-image
+scipy
+MotionClouds
+imageio
