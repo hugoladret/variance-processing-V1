@@ -1,0 +1,15 @@
+preprocessing/*.pdf
+preprocessing/cat/raw_data
+preprocessing/cat/processed
+postprocessing/data/all_2023_postprocess/decoding_btheta_data.npy
+postprocessing/data/all_2023_postprocess/decoding_bthetatheta_data.npy
+postprocessing/data/paper_2023_postprocess/decoding_btheta_data.npy
+postprocessing/data/paper_2023_postprocess/decoding_bthetatheta_data.npy
+postprocessing/figs/decoding_bthetatheta_groups_res_population_tc.pdf
+postprocessing/figs/decoding_bthetatheta_groups_vul_population_tc.pdf
+postprocessing/figs/decoding_theta_all_population_tc.pdf
+postprocessing/figs/decoding_theta_groups_population_tc.pdf
+postprocessing/data/paper_2023_postprocess/decoding_bthetatheta_groups_population_tc.npy
+postprocessing/data/paper_2023_postprocess/decoding_bthetatheta_groups_bootstrap_marginalization.npy
+postprocessing/data/paper_2023_postprocess_backup/*.npy
+model/data/final_rec_sims.npy
