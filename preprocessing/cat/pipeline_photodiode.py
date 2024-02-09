@@ -232,7 +232,7 @@ def fix_photodiode(sequences_times2, stim_duration, folder) :
 
     elif folder == 'Mary_B006' :
         '''
-        Who the fuck walks in front of a screen during an experiment ?
+        Someone walks in front of a screen during an experiment ?
         All the artifacts are from a shadow in front of the photodiode
         The indexes weren't the right ones from the debug output, and had to check them
         directly from matplotlib.. bug worth investigating
