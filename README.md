@@ -1,4 +1,4 @@
-# Companion repository for the article "Cortical recurrence supports resilience to sensory variance in the primary visual cortex", to be published in Nature Communications Biology
+# Companion repository for the article "Cortical recurrence supports resilience to sensory variance in the primary visual cortex", published in Nature Communications Biology
 [![DOI](https://zenodo.org/badge/368818425.svg)](https://zenodo.org/badge/latestdoi/368818425)
 
 # Usage 
